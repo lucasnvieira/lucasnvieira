@@ -1,4 +1,17 @@
-### Hi there 👋
+###  
+Graduado em Ciências Contábeis pela FEA-RP/USP, tenho experiência com áreas de negócios e operações.
+
+📊 Interessado em Análise de dados com Excel, SQL, Python e Power BI/Tableau.
+
+📫 lucasdnvieira@outlook.com
+
+
+
+
+
+
+
+
 
 <!--
 **lucasnvieira/lucasnvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
