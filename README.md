@@ -3,7 +3,7 @@ Graduado em Ciências Contábeis pela FEA-RP/USP, tenho experiência com áreas 
 
 📊 Interessado em Análise de dados com Excel, SQL, Python e Power BI/Tableau.
 
-📈 Cursando Nanodegree em Análise de Dados pela Udacity. 
+📈 Cursando Nanodegree em Análise de Dados na Udacity. 
 
 📫 lucasdnvieira@outlook.com
 
